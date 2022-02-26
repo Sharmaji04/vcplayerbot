@@ -27,7 +27,7 @@ Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion G
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-4. Add the bot to your group and send the [commands](https://github.com/kshubham506/vcplayerbot#features) to start using the VCPlayer Bot :)
+4. Add the bot to your group and send the [commands](https://github.com/Sharmaji04/vcplayerbot#features) to start using the VCPlayer Bot :)
 
 
 # Steps To Setup on VPC or Locally
